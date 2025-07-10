@@ -1,75 +1,41 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AhmedYounees/AhmedYounees/main/cosmic_banner.png" alt="Cosmic Banner">
-</p>
+<h1 align="center">Hi 👋, I'm Ahmed Younes</h1>
+<h3 align="center">Software Engineer with nearly 2 years of professional experience</h3>
 
-# 🌌 Greetings, fellow traveler! ✨
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedyounees&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedyounees" /> </p>
 
-> "The cosmos is within us. We are made of star-stuff. We are a way for the universe to know itself." - Carl Sagan
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedyounees" alt="ahmedyounees" /></a> </p>
 
----
+<p align="left"> <a href="https://twitter.com/aahmedyyounes" target="blank"><img src="https://img.shields.io/twitter/follow/aahmedyyounes?logo=twitter&style=for-the-badge" alt="aahmedyyounes" /></a> </p>
 
-## 💫 About Me
+- 🔭 I’m currently working on [Survey Basket API](https://github.com/AhmedYounees/SurveyBasketAPI)
 
-<p align="center">
-  <img src="https://media.giphy.com/media/HsKjBwdfjTIJ/giphy.gif" alt="Developer working GIF" width="300"/>
-</p>
+- 🌱 I’m currently learning **Microservices architecture, Azure DevOps, and advanced Angular patterns**
 
----
+- 👯 I’m looking to collaborate on [Open source ASP.NET Core or Angular projects](https://github.com/AhmedYounees)
 
-## 🚀 Tech Stack
+- 🤝 I’m looking for help with [Advanced Azure cloud architecture and serverless applications](https://github.com/AhmedYounees/SurveyBasketAPI)
 
-🌌 **Languages:**
+- 👨‍💻 All of my projects are available at [https://github.com/AhmedYounees](https://github.com/AhmedYounees)
+
+- 💬 Ask me about **ASP.NET Core, Angular, C#, Entity Framework Core, SQL Server, and N-tier architecture**
+
+- 📫 How to reach me **Ahmedyounis331@gmail.com**
+
+- 📄 Know about my experiences [https://linkedin.com/in/ahmedyounesmahmoud](https://linkedin.com/in/ahmedyounesmahmoud)
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+<a href="https://twitter.com/aahmedyyounes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aahmedyyounes" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ahmedyounesmahmoud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmedyounesmahmoud" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/ahmedyouunnes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ahmedyouunnes" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ahmedyounis331" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ahmedyounis331" height="30" width="40" /></a>
 </p>
 
-✨ **Frameworks & Tools:**
-<p align="left">
-  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core"/>
-  <img src="https://img.shields.io/badge/MVC-000000?style=for-the-badge&logo=mvc&logoColor=white" alt="MVC"/>
-  <img src="https://img.shields.io/badge/RESTful%20API-000000?style=for-the-badge&logo=rest&logoColor=white" alt="RESTful API"/>
-  <img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Entity Framework Core"/>
-  <img src="https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="LINQ"/>
-  <img src="https://img.shields.io/badge/ADO.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ADO.NET"/>
-  <img src="https://img.shields.io/badge/Windows%20Forms-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Windows Forms"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/SourceTree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white" alt="SourceTree"/>
-  <img src="https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SSMS"/>
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-⭐ **Concepts & Methodologies:**
-<p align="left">
-  <img src="https://img.shields.io/badge/OOP-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="OOP"/>
-  <img src="https://img.shields.io/badge/SOLID%20Principles-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="SOLID Principles"/>
-  <img src="https://img.shields.io/badge/Data%20Structures-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="Data Structures"/>
-  <img src="https://img.shields.io/badge/Algorithms-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="Algorithms"/>
-  <img src="https://img.shields.io/badge/Problem%20Solving-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="Problem Solving"/>
-  <img src="https://img.shields.io/badge/Design%20Patterns-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="Design Patterns"/>
-  <img src="https://img.shields.io/badge/Dependency%20Injection-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="Dependency Injection"/>
-  <img src="https://img.shields.io/badge/Agile-000000?style=for-the-badge&logo=jira&logoColor=white" alt="Agile"/>
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedyounees&show_icons=true&locale=en&layout=compact" alt="ahmedyounees" /></p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedyounees&show_icons=true&locale=en" alt="ahmedyounees" /></p>
 
-## 🎓 Education
-
-<p align="center">
-  <img src="https://img.icons8.com/ios-filled/50/000000/university.png" alt="University icon" width="40" height="40"/>
-</p>
-
----
-
-## 🌠 Personality Traits & Developer Philosophy
-
-<p align="center">
-  <img src="https://img.icons8.com/ios-filled/50/000000/brain.png" alt="Brain icon" width="40" height="40"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/collaboration.png" alt="Collaboration icon" width="40" height="40"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/time.png" alt="Time icon" width="40" height="40"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/stress.png" alt="Stress icon" width="40" height="40"/>
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedyounees&" alt="ahmedyounees" /></p>
